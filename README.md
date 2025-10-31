@@ -58,5 +58,5 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/JA](https://www.linkedin.com/in/javier-mota-ontiveros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javier-mota-ontiveros)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:callofgamer34@gmail.com)
