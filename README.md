@@ -7,7 +7,6 @@
 ☁️ &nbsp;I work with **DigitalOcean** for cloud deployments, using **Nginx** on **Rocky Linux** servers and **Cloudflare** for CDN, DNS, and security.\
 💡 &nbsp;I love automating deployments, optimizing backends, and improving web performance through good DevOps practices.\
 📱 &nbsp;In mobile, I develop **Android apps** using modern UI and architecture patterns.\
-🚀 &nbsp;Always learning and exploring technologies like **Docker**, **CI/CD pipelines**, and **cloud infrastructure**.\
 💬 &nbsp;Let’s connect to talk about technology, system architecture, or development best practices!\
 ✉️ &nbsp;Reach me at **callofgamer34@gmail.com**
 
