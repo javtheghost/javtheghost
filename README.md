@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌍 &nbsp;I'm a **Web and Android Developer** passionate about building scalable, secure, and performant applications.\
+🌍 &nbsp;I'm a **Software Developer** passionate about building scalable, secure, and performant applications.\
 ☁️ &nbsp;I work with **DigitalOcean** for cloud deployments, using **Nginx** on **Rocky Linux** servers and **Cloudflare** for CDN, DNS, and security.\
 💡 &nbsp;I love automating deployments, optimizing backends, and improving web performance through good DevOps practices.\
 📱 &nbsp;In mobile, I develop **Android apps** using modern UI and architecture patterns.\
